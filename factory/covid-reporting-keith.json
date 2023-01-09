@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-keith",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7368e58c-dcd1-485c-ac39-8928bcf2953f",
+		"tenantId": "1ab7d07c-7dee-42d7-b535-591f1be74302"
+	}
+}

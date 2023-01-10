@@ -192,7 +192,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"fileName": "ecdc_file_list_for_2_files.json",
+						"fileName": "ecdc_file_list.json",
 						"container": "configs"
 					}
 				},
@@ -256,8 +256,7 @@
 			"properties": {
 				"linkedServiceName": {
 					"referenceName": "ls_http_opendata_ecdc_europa_eu",
-					"type": "LinkedServiceReference",
-					"parameters": {}
+					"type": "LinkedServiceReference"
 				},
 				"parameters": {
 					"relativeURL": {
